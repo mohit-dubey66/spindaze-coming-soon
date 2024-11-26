@@ -2,10 +2,10 @@ import React from 'react';
 import { Youtube, Twitter, Linkedin, Instagram } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Twitter, href: 'https://twitter.com/spindaze', label: 'Twitter' },
-  { icon: Instagram, href: 'https://instagram.com/spindaze', label: 'Instagram' },
-  { icon: Linkedin, href: 'https://linkedin.com/company/spindaze', label: 'LinkedIn' },
-  { icon: Youtube, href: 'https://youtube.com/@spindaze', label: 'YouTube' }
+  { icon: Twitter, href: 'https://x.com/spindaze', label: 'Twitter' },
+  { icon: Instagram, href: 'https://www.instagram.com/spindazeofficial/', label: 'Instagram' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/spindazeofficial/', label: 'LinkedIn' },
+  { icon: Youtube, href: 'https://www.youtube.com/@spindaze', label: 'YouTube' }
 ];
 
 export function Header() {
